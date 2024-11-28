@@ -16,3 +16,6 @@ const myGreeting = "Hello, world!";
 console.log(myGreeting);
 alert(myGreeting);
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] Next item is not completely defined yet
