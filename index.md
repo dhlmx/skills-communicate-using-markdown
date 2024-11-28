@@ -4,3 +4,5 @@
 #### My first H4.
 ##### My first H5.
 ###### My first H6.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
